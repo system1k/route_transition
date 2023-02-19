@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
+/// Animation Types
 enum AnimationType { normal, fadeIn }
 
+/// Main class
 class RouteTransition {
   final BuildContext context;
   final Widget child;

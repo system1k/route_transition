@@ -1,6 +1,6 @@
 name: custom_route_transitions_jgfj
 description: This package is part of Fernando Herrera's Flutter course on Udemy.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/system1k/route_transition.git
 
 environment:
