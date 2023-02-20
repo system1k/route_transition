@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
 
 /// Animation Types
-enum AnimationType { normal, fadeIn }
+enum AnimationType { 
+  @deprecated
+  fadeInSuperFast,
+  normal, 
+  fadeIn 
+}
 
 /// Main class
 class RouteTransition {
